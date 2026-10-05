@@ -1,0 +1,16 @@
+Source: synthetic, holding 2 years, loan rate 3.85%
+
+Rolling-start results (one start per month):
+ pledge starts  forced sale  median x  win rate
+     0%     36         0.0%     1.000      0.0%
+    20%     36         0.0%     1.025     86.1%
+    40%     36         0.0%     1.051     86.1%
+    60%     36         8.3%     1.076     80.6%
+    70%     36        69.4%     1.048     63.9%
+
+Break-even loan rate at 40% pledge (median multiple = 1): 11.66%
+  rate 2%: median multiple 1.063, win rate 91.7%
+  rate 5%: median multiple 1.043, win rate 83.3%
+  rate 8%: median multiple 1.024, win rate 69.4%
+
+Household overlay at 70% pledge, no cash buffer: forced disposal in 18 of 36 starts (50.0%); by onset year {2008: 2, 2009: 10, 2010: 6}
